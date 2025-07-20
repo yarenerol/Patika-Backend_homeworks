@@ -19,9 +19,7 @@ public class InvertedTriangle {
                 System.out.print("* ");
             }
             System.out.println();
-
-            input.close();
-
         }
+        input.close();
     }
 }
