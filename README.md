@@ -7,5 +7,6 @@ This repo consists of assignments I completed as part of the Backend Web Develop
 - Flight Ticket Price Calculator Program
 - Leap Year Calculator Program
 - Min-Max Finder Program
+- Inverted Triangle Program
 
 (This README.md file will be updated as assignments are added.)
