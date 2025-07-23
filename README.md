@@ -7,6 +7,14 @@ This repo consists of assignments I completed as part of the Backend Web Develop
 - Flight Ticket Price Calculator Program
 - Leap Year Calculator Program
 - Min-Max Finder Program
+- Perfect Number Program
 - Inverted Triangle Program
+- Matrix Transpoze Program
+- Type Casting Program
+
+### Content of Week 2
+- Password Control Program
+- Number Rounding Program
+- 
 
 (This README.md file will be updated as assignments are added.)
