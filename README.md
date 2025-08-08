@@ -15,6 +15,8 @@ This repo consists of assignments I completed as part of the Backend Web Develop
 ### Content of Week 2
 - Password Control Program
 - Number Rounding Program
-- 
+- Multiplication Table Program
+- Prime Number Program
+- alary Calculator Program
 
 (This README.md file will be updated as assignments are added.)
