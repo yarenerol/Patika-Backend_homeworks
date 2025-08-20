@@ -1,4 +1,4 @@
--- WEEK 5 SQL HOMEWORKS
+-- SQL HOMEWORK 1
 
 
 -- 1.  film tablosunda bulunan title ve description sütunlarındaki verileri sıralayınız.
