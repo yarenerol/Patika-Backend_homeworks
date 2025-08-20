@@ -1,4 +1,4 @@
-package Week4.Enums;
+package Week5.Enums;
 
 import java.util.Scanner;
 
